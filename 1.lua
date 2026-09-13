@@ -1,4 +1,3 @@
-_G.ScriptKey = "Your-Key-Here"
 
 local IlioloiL=(getfenv and getfenv(1)) or _ENV or _G
 local LiiLojLI,joIo1lIOLO=string.byte,string.char
